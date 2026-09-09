@@ -134,8 +134,7 @@ setup is required.
 
 ## 📸 Preview
 
-*(Add a screenshot or screen recording of the app here — e.g. the Discover
-page, the roommate matching grid, or the listing creation wizard.)*
+<img width="1366" height="645" alt="Image" src="https://github.com/user-attachments/assets/cb8f7f59-069e-4dda-97fc-8bf06bdbfcc0" />
 
 ## Project Structure
 
